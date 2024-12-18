@@ -2,6 +2,11 @@
 
 El proyecto Spurs StatsLab fue diseñado con el objetivo de analizar el rendimiento del equipo de la NBA San Antonio Spurs durante la temporada 2022-2023. Este análisis buscó identificar áreas de mejora, proporcionar insights accionables para decisiones estratégicas y contribuir al desarrollo competitivo del equipo, teniendo en cuenta tanto su desempeño deportivo como el impacto financiero y en los fanáticos.
 
+<div align="center">
+  <img src="Imagenes/Portada.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
+
+
 1. Caso de Negocio
 
 🏀 Industria y Contexto:
@@ -29,6 +34,10 @@ Soluciones Propuestas:
 
 •	Recomendaciones tácticas y visualizaciones interactivas en Power BI.
 
+<div align="center">
+  <img src="Imagenes/Procesos de ETL.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
+
 2. Fuentes de Datos
 
 📥 Origen de Datos:
@@ -49,6 +58,7 @@ Tipos de Datos:
 
 •	Jugadas y resúmenes de partidos 📋.
 
+
 3. Estrategia de Análisis
 
 Se definió un plan de análisis dividido en seis fases:
@@ -67,9 +77,13 @@ Se definió un plan de análisis dividido en seis fases:
 
 Herramientas Utilizadas: Python 🐍 y SQL para limpieza y análisis de datos. Power BI para visualizaciones interactivas 📈.
 
+<div align="center">
+  <img src="Imagenes/Creación de Tablas en SQL.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
+
 4. Resultados del Análisis
 
-Equipo: San Antonio Spurs
+ 📊 Equipo: San Antonio Spurs
 
 San Antonio Spurs tuvo una temporada complicada en la NBA 2022-2023, jugando un total de 82 partidos y ganando solo 22, lo que representa un 27% de victorias. Esto lo ubicó en el último lugar de la Conferencia Oeste. A nivel de partidos, el equipo jugó la mitad de los encuentros como local y la otra mitad como visitante. En su estadio, San Antonio ganó 14 partidos (17% de victorias), mientras que fuera de casa solo logró 8 victorias (10%). Estos números reflejan las dificultades del equipo tanto en su cancha como fuera de ella.
 
@@ -87,7 +101,11 @@ Como conclusión se desprende que, San Antonio Spurs, tuvo una temporada muy dif
 
 Sin embargo, sus problemas defensivos fueron evidentes, especialmente como visitantes, donde recibieron la mayor cantidad de puntos de la liga. Esto, sumado a los rebotes por debajo del promedio, evidencia debilidades importantes en su juego defensivo y físico.
 
-Análisis de los Jugadores
+<div align="center">
+  <img src="Imagenes/Team.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
+
+ 🏅 Análisis de los Jugadores
 
 El equipo cuenta con un total de 70 jugadores, pero solo 12 de ellos son activos. En términos de posiciones, hay 27 guards, de los cuales 9 están activos; 29 forwards, con solo 2 activos; y 11 centers, ninguno de los cuales está activo. Además, hay 3 jugadores sin posición definida, de los cuales 1 está activo.
 
@@ -105,7 +123,11 @@ En la posición de guard, los jugadores más relevantes son:
 
 En conclusión, el equipo muestra una notable escasez de forwards y centers activos, lo que podría afectar su capacidad defensiva y la lucha por los rebotes. Los guard, por el contrario, tienen un buen rendimiento y representan una fortaleza del equipo, con jugadores como Dejounte Murray y Keldon Johnson liderando en puntos y eficiencia.
 
-Análisis de posibles incorporaciones
+<div align="center">
+  <img src="Imagenes/Players.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
+
+🛒 Análisis de posibles incorporaciones
 
 En la posición de center, se destacan cuatro:
 
@@ -128,6 +150,10 @@ Para la posición de forward, las opciones más destacadas son:
 En conclusión, en cuanto a posibles fichajes, la posición de center cuenta con opciones prometedoras como Walker Kessler y Jalen Duren, que combinan eficiencia con una buena relación costo-rendimiento. Para forwards, Patrick Baldwin Jr. y Josh Minott destacan como jugadores jóvenes y con potencial de crecimiento, mientras que Peyton Watson podría aportar solidez adicional.
 
 En general, las incorporaciones en las posiciones más deficitarias (forwards y centers) serían cruciales para mejorar la estructura y competitividad del equipo
+
+<div align="center">
+  <img src="Imagenes/Draft.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
 
 5. Impacto Esperado del Proyecto
 
