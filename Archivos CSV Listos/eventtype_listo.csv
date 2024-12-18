@@ -1,0 +1,14 @@
+eventmsgtype,Descripción
+1,Canasta anotada
+2,Tiro fallado
+3,Tiros libres
+4,Rebotes
+5,Perdidas
+6,Faltas cometidas
+7,Otras infracciones
+8,Sustituciones
+9,Tiempo fuera
+10,Salto de Balon
+11,Expulsion
+12,Inicio del periodo
+13,Fin del periodo

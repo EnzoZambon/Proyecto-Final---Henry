@@ -1,0 +1,335 @@
+eventmsgtype;eventmsgactiontype;description;points (score);points by play
+1;8;Mate (2 PTS);2;2
+1;5;Bandeja (2 PTS);2;2
+1;3;Tiro en gancho de 7' (4 PTS);2;4
+1;1;Tiro de 25' (3 PTS);3;3
+1;2;Tiro en suspensión en carrera de 7' (5 PTS);2;5
+1;4;Tiro en el aro (2 PTS);2;2
+1;6;Bandeja en conducción (9 PTS);2;9
+1;7;Mate (4 PTS);2;4
+1;9;Mate en conducción (12 PTS);2;12
+1;0;Sin tiro;0;0
+1;42;Bandeja en conducción (2 PTS);2;2
+1;46;Tiro en suspensión de 11' (10 PTS);2;10
+1;44;Bandeja reversa (4 PTS);2;4
+1;40;Bandeja (6 PTS);2;6
+1;55;Tiro en gancho (22 PTS);2;22
+1;49;Mate en conducción (2 PTS);2;2
+1;58;Tiro en gancho de 8' (6 PTS);2;6
+1;41;Bandeja en carrera (4 PTS);2;4
+1;43;Alley oop con bandeja (10 PTS);2;10
+1;47;Tiro en suspensión de 8' (2 PTS);2;2
+1;59;Finger roll (13 PTS);2;13
+1;52;Alley oop con mate (17 PTS);2;17
+1;53;Tiro en el aro (6 PTS);2;6
+1;61;Finger roll en conducción (9 PTS);2;9
+1;56;Tiro en gancho de 3' (2 PTS);2;2
+1;48;Mate (2 PTS);2;2
+1;45;Tiro en suspensión (2 PTS);2;2
+1;57;Tiro en gancho de 5' (12 PTS);2;12
+1;60;Finger roll en carrera (7 PTS);2;7
+1;51;Mate reverso (17 PTS);2;17
+1;54;Tiro en el aro en carrera (21 PTS);2;21
+1;62;Finger roll en giro (4 PTS);2;4
+1;63;Tiro en suspensión de 18' (8 PTS);2;8
+1;65;Tiro en gancho (4 PTS);2;4
+1;64;Mate de seguimiento (2 PTS);2;2
+1;66;Tiro de banco de 8' (14 PTS);2;14
+1;67;Tiro de banco en gancho de 10' (7 PTS);2;7
+1;85;Tiro en banco de 6' (2 PTS);2;2
+1;78;Tiro flotante de 9' (2 PTS);2;2
+1;93;Tiro en gancho en carrera de 1' (9 PTS);2;9
+1;80;Tiro en suspensión de 14' (6 PTS);2;6
+1;87;Mate de rebote (13 PTS);2;13
+1;73;Bandeja reversa en conducción (2 PTS);2;2
+1;74;Bandeja reversa en carrera (13 PTS);2;13
+1;77;Tiro en suspensión de 5' (9 PTS);2;9
+1;86;Tiro en suspensión de 14' (14 PTS);2;14
+1;72;Bandeja de rebote (4 PTS);2;4
+1;90;Mate en carrera (2 PTS);2;2
+1;75;Finger roll en conducción (4 PTS);2;4
+1;43;Alley-oop en bandeja (10 PTS);2;10
+1;47;Tiro en suspensión de 8' (2 PTS);2;2
+1;59;Finger roll (13 PTS);2;13
+1;52;Alley-oop en mate (17 PTS);2;17
+1;53;Tiro en toque (6 PTS);2;6
+1;61;Finger roll en conducción (9 PTS);2;9
+1;56;Tiro en gancho en carrera de 3' (2 PTS);2;2
+1;48;Mate (2 PTS);2;2
+1;45;Tiro en suspensión (2 PTS);2;2
+1;57;Tiro en gancho en conducción de 5' (12 PTS);2;12
+1;50;Mate en carrera de 1' (11 PTS);2;11
+1;60;Finger roll en carrera (7 PTS);2;7
+1;51;Mate reverso (17 PTS);2;17
+1;54;Tiro en carrera de 1' (21 PTS);2;21
+1;62;Finger roll en giro (4 PTS);2;4
+1;63;Tiro en suspensión de 18' (8 PTS);2;8
+1;65;Tiro en gancho (4 PTS);2;4
+1;64;Mate de seguimiento (2 PTS);2;2
+1;66;Tiro de banco de 8' (14 PTS);2;14
+1;67;Tiro en gancho de banco de 10' (7 PTS);2;7
+1;85;Tiro en banco de 6' (2 PTS);2;2
+1;78;Tiro flotante de 9' (2 PTS);2;2
+1;93;Tiro en gancho en carrera de 1' (9 PTS);2;9
+1;80;Tiro en suspensión de 14' (6 PTS);2;6
+1;87;Mate de rebote (13 PTS);2;13
+1;73;Bandeja reversa en conducción (2 PTS);2;2
+1;74;Bandeja reversa en carrera (13 PTS);2;13
+1;77;Tiro en suspensión de 5' (9 PTS);2;9
+1;86;Tiro en suspensión de 14' (14 PTS);2;14
+1;72;Bandeja de rebote (4 PTS);2;4
+1;90;Mate en carrera (2 PTS);2;2
+1;75;Finger roll en conducción (4 PTS);2;4
+1;88;Mate en conducción (4 PTS);2;4
+1;71;Finger roll en bandeja (6 PTS);2;6
+1;83;Tiro en suspensión de 11' (2 PTS);2;2
+1;92;Mate en rebote (6 PTS);2;6
+1;79;Tiro en suspensión de 10' (15 PTS);2;15
+1;84;Tiro en banco de 5' (12 PTS);2;12
+1;76;Finger roll en bandeja (2 PTS);2;2
+1;82;Tiro en banco de 8' (13 PTS);2;13
+1;89;Mate reverso (4 PTS);2;4
+1;81;Tiro en banco de 16' (21 PTS);2;21
+1;95;Tiro en banco de 9' (25 PTS);2;25
+1;96;Tiro en banco de 11' (9 PTS);2;9
+1;94;Tiro en banco de 7' (7 PTS);2;7
+1;91;Mate de rebote reverso (4 PTS);2;4
+1;101;Tiro flotante en conducción de 9' (2 PTS);2;2
+1;105;Tiro en suspensión de 12' (3 PTS);2;3
+1;103;Tiro en carrera de 24' (3 PTS);3;3
+1;98;Tiro en bandeja de 1' (2 PTS);2;2
+1;97;Tiro en bandeja de 1' (15 PTS);2;15
+1;107;Mate en toque (17 PTS);2;17
+1;99;Finger roll en bandeja de 3' (2 PTS);2;2
+1;108;Mate en corte (4 PTS);2;4
+1;102;Tiro en banco flotante de 15' (4 PTS);2;4
+1;100;Tiro en bandeja en alley oop (2 PTS);2;2
+1;106;Mate en alley oop (18 PTS);2;18
+1;104;Tiro en suspensión de 24' (7 PTS);3;7
+1;110;Mate reverso en carrera (9 PTS);2;9
+1;109;Mate reverso en conducción (7 PTS);2;7
+2;1;Tiro fallado desde 15';0;0
+2;5;Bandeja fallada desde 1';0;0
+2;3;Tiro en gancho fallado desde 9';0;0
+2;4;Tiro en bandeja fallado;0;0
+2;6;Bandeja fallada en conducción;0;0
+2;7;Mate fallado;0;0
+2;2;Tiro en suspensión en carrera fallado desde 7';0;0
+2;8;Mate fallado;0;0
+2;9;Mate en conducción fallado;0;0
+2;0;Tiro fallado;0;0
+2;45;Bloqueo;0;0
+2;44;Tiro en bandeja reversa fallado;0;0
+2;46;Tiro en suspensión fallado desde 5';0;0
+2;40;Tiro en bandeja fallado;0;0
+2;42;Bloqueo;0;0
+2;41;Bandeja en carrera fallada;0;0
+2;55;Tiro en gancho fallado desde 13';0;0
+2;53;Tiro en bandeja tip fallado;0;0
+2;58;Tiro en gancho fallado desde 5';0;0
+2;61;Tiro en bandeja tipo finger roll fallado;0;0
+2;56;Tiro en gancho fallado desde 3';0;0
+2;47;Tiro en giro fallado desde 11';0;0
+2;62;Tiro en finger roll fallado desde giro;0;0
+2;43;Tiro en alley oop fallado;0;0
+2;59;Tiro en finger roll fallado;0;0
+2;54;Tiro en bandeja tip fallado desde 13';0;0
+2;52;Tiro en alley oop fallado;0;0
+2;49;Mate fallado;0;0
+2;51;Mate reverso fallado;0;0
+2;57;Tiro en gancho fallado desde 9';0;0
+2;48;Mate fallado;0;0
+2;50;Mate en carrera fallado;0;0
+2;60;Tiro en finger roll fallado desde 6';0;0
+2;65;Tiro en gancho fallado desde 3';0;0
+2;63;Tiro en fadeaway fallado desde 17';0;0
+2;64;Mate de seguimiento fallado;0;0
+2;66;Tiro de banco fallado desde 11';0;0
+2;67;Tiro en gancho fallado desde 8';0;0
+2;94;Tiro en gancho fallado desde 7';0;0
+2;71;Tiro en finger roll en bandeja fallado;0;0
+2;77;Tiro en salto fallado desde 6';0;0
+2;72;Bandeja de rebote fallada;0;0
+2;86;Tiro en fadeaway fallado desde 13';0;0
+2;73;Bandeja reversa fallada;0;0
+2;79;Tiro en salto fallado desde 19';0;0
+2;75;Tiro en finger roll en bandeja fallado;0;0
+2;78;Tiro flotante fallado desde 5';0;0
+2;76;Finger roll en carrera fallado;0;0
+2;87;Mate de rebote fallado;0;0
+2;84;Tiro en salto fallado desde 5';0;0
+2;58;Fallo en tiro de 5' en gancho;0;0
+2;61;Fallo en bandeja en conducción;0;0
+2;56;Fallo en tiro de 3' en gancho;0;0
+2;47;Fallo en tiro de 11' en salto;0;0
+2;62;Fallo en tiro de 17' en fadeaway;0;0
+2;43;Fallo en alley oop;0;0
+2;59;Fallo en finger roll;0;0
+2;54;Fallo en tiro de 13' en tip;0;0
+2;52;Fallo en mate;0;0
+2;49;Fallo en tiro de 9' en gancho;0;0
+2;51;Fallo en tiro de 6' en finger roll;0;0
+2;57;Fallo en tiro de 3' en salto;0;0
+2;48;Fallo en mate;0;0
+2;50;Fallo en mate;0;0
+2;60;Fallo en tiro de 6' en finger roll;0;0
+2;65;Fallo en tiro de 3' en salto;0;0
+2;63;Fallo en tiro de 17' en fadeaway;0;0
+2;64;Fallo en mate de seguimiento;0;0
+2;66;Fallo en tiro de banco;0;0
+2;67;Fallo en tiro de 8' en gancho;0;0
+2;94;Fallo en tiro de 7' en gancho;0;0
+2;71;Fallo en tiro de 2' en finger roll;0;0
+2;77;Fallo en salto de 6';0;0
+2;72;Fallo en bandeja de rebote;0;0
+2;86;Fallo en fadeaway de 13';0;0
+2;73;Fallo en bandeja reversa;0;0
+2;79;Fallo en tiro de 19' en salto;0;0
+2;75;Fallo en finger roll en bandeja;0;0
+2;78;Fallo en tiro flotante de 5';0;0
+2;76;Fallo en finger roll en carrera;0;0
+2;87;Fallo en mate de rebote;0;0
+2;84;Fallo en tiro de 5' en salto;0;0
+2;80;Fallo en paso atrás de 17';0;0
+2;82;Fallo en tiro de 11' en salto;0;0
+2;74;Fallo en reverso en dunk de 2';0;0
+2;85;Fallo en tiro de 9' en fadeaway;0;0
+2;89;Fallo en reverse slam dunk;0;0
+2;95;Fallo en tiro de 7' en salto;0;0
+2;93;Fallo en driving bank hook shot;0;0
+2;81;Fallo en pullup bank shot de 17';0;0
+2;96;Fallo en tiro de 7' en hook shot;0;0
+2;83;Fallo en fadeaway de 10';0;0
+2;92;Fallo en putback dunk;0;0
+2;91;Fallo en reverse dunk;0;0
+2;88;Fallo en slam dunk de conducción;0;0
+2;90;Fallo en slam dunk de conducción;0;0
+2;101;Fallo en tiro flotante de 8';0;0
+2;98;Fallo en layup de 1' en corte;0;0
+2;105;Fallo en fadeaway de 15';0;0
+2;97;Fallo en layup de 2' en tip;0;0
+2;108;Fallo en dunk de corte;0;0
+2;103;Fallo en pull-up de 11';0;0
+2;104;Fallo en step back de 17';0;0
+2;99;Fallo en finger roll de 2';0;0
+2;102;Fallo en bank jump shot;0;0
+2;109;Fallo en dunk reverso;0;0
+2;107;Fallo en tip dunk de 2';0;0
+2;100;Fallo en alley oop layup de 1';0;0
+2;106;Fallo en alley oop dunk de 1';0;0
+2;110;Fallo en reverso en dunk de 1';0;0
+3;11;Tiro libre 1 de 2;1;1
+3;12;Tiro libre 2 de 2;2;2
+3;10;Tiro libre 1 de 1;1;3
+3;16;Tiro libre técnico;1;8
+3;17;Fallo en tiro libre (Clear Path);0;0
+3;18;Fallo en tiro libre (Flagrant 1);0;0
+3;13;Tiro libre 1 de 3;1;13
+3;14;Tiro libre 2 de 3;1;14
+3;15;Tiro libre 3 de 3;1;15
+3;19;Tiro libre flagrante 2 de 2;2;17
+3;20;Tiro libre flagrante 1 de 1;1;11
+3;21;Tiro libre técnico 1 de 2;1;5
+3;25;Tiro libre Clear Path 1 de 2;1;3
+3;26;Tiro libre Clear Path 2 de 2;1;4
+3;23;Fallo en tiro libre;0;0
+3;24;Tiro libre 1 PTS;1;1
+3;27;Fallo en tiro libre (Flagrant 1);0;0
+3;28;Tiro libre flagrante 2 de 3;1;9
+3;29;Tiro libre flagrante 3 de 3;1;10
+3;22;Tiro libre técnico 2 de 2;2;5
+4;0;Rebote defensivo;1;1
+4;1;Rebote ofensivo;1;1
+5;1;Pase malo, pérdida de balón;1;0
+5;2;Pérdida de balón;1;0
+5;4;Viaje, pérdida de balón;1;0
+5;5;Falta, pérdida de balón;1;0
+5;3;Fuera de banda, pérdida de balón;1;0
+5;7;Descontinuación del drible, pérdida de balón;1;0
+5;14;Pantalla ilegal, pérdida de balón;1;0
+5;11;Violación de reloj de tiro, pérdida de balón;1;0
+5;17;Violación de línea de tiro, pérdida de balón;1;0
+5;8;Violación de 3 segundos, pérdida de balón;1;0
+5;18;Salto, pérdida de balón;1;0
+5;13;Violación de campo trasero, pérdida de balón;1;0
+5;6;Doble drible, pérdida de balón;1;0
+5;12;Violación en saque, pérdida de balón;1;0
+5;10;Violación de 8 segundos, pérdida de balón;1;0
+5;16;Violación de aislamiento, pérdida de balón;1;0
+5;9;Violación de 5 segundos, pérdida de balón;1;0
+5;15;Goaltending ofensivo, pérdida de balón;1;0
+5;0;Robo de balón;1;0
+5;19;Pelota pateada, pérdida de balón;1;0
+5;20;Asistencia ilegal, pérdida de balón;1;0
+5;21;Palming, pérdida de balón;1;0
+5;22;Jugada de poste, pérdida de balón;1;0
+5;23;Falta personal doble, pérdida de balón;1;0
+5;41;Robo de balón;1;0
+5;40;Fuera de banda, pérdida de balón;1;0
+5;39;Salir fuera de banda, pérdida de balón;1;0
+5;31;Pase robado, pérdida de balón;1;0
+5;38;Violación de 5 segundos en saque, pérdida de balón;1;0
+5;37;Falta ofensiva, pérdida de balón;1;0
+5;36;Pantalla ilegal, pérdida de balón;1;0
+5;35;Tiro debajo del aro, pérdida de balón;1;0
+5;33;Pelota golpeada, pérdida de balón;1;0
+5;34;Codos alzados, pérdida de balón;1;0
+5;32;Aro contrario, pérdida de balón;1;0
+5;43;Robo de balón;1;0
+5;52;Sin información, pérdida de balón;1;0
+5;42;Pérdida de balón;1;0
+5;44;Demasiados jugadores, pérdida de balón;1;0
+5;45;Pase malo, fuera de banda, pérdida de balón;1;0
+6;1;Falta personal;1;0
+6;2;Falta personal;1;0
+6;3;Falta personal;1;0
+6;4;Falta ofensiva;1;0
+6;17;Falta personal;1;0
+6;16;Falta técnica doble;1;0
+6;9;Falta personal;1;0
+6;14;Falta flagrante tipo 1;1;0
+6;11;Falta técnica;1;0
+6;10;Falta personal doble (2 jugadores);1;0
+6;6;Falta personal fuera de jugada;1;0
+6;5;Falta personal;1;0
+6;15;Falta flagrante tipo 2;1;0
+6;18;Falta personal;1;0
+6;12;Falta técnica no deportiva;1;0
+6;13;Falta técnica por colgarse;1;0
+6;8;Falta por puñetazo;1;0
+6;7;Falta por codo;1;0
+6;19;Falta por burlarse;1;0
+6;26;Falta ofensiva por carga;1;0
+6;27;Falta por bloqueo personal;1;0
+6;28;"Falta personal tipo ""take""";1;0
+6;29;Falta de bloqueo en tiro;1;0
+6;25;Falta técnica por exceso de tiempo muerto;1;0
+6;30;Falta técnica por demasiados jugadores;1;0
+6;0;No hay falta;0;0
+6;31;Falta personal en transición;1;0
+7;3;Violación de carril;1;0
+7;1;Violación: Retraso en el juego;1;0
+7;2;Violación: Goaltending defensivo;1;0
+7;6;Violación: Doble carril;1;0
+7;4;Violación: Salto inicial;1;0
+7;5;Violación: Pelota pateada;1;0
+7;0;No hay violación;0;0
+8;0;Sustitución de jugador;1;0
+9;1;Tiempo fuera regular;1;0
+9;2;Tiempo fuera corto;1;0
+9;3;Tiempo fuera oficial por televisión;1;0
+9;0;Sin tiempo fuera;1;0
+9;4;Tiempo fuera oficial;1;0
+9;5;Tiempo fuera para avanzar el balón;1;0
+9;7;Tiempo fuera por desafío del entrenador;1;0
+10;0;Salto entre dos, balón ganado por un equipo;1;0
+10;1;Salto entre dos, balón ganado por un equipo;1;0
+11;3;Expulsión por flagrante tipo 2;1;0
+11;1;Expulsión por segunda falta técnica;1;0
+11;4;Expulsión por otra razón;1;0
+11;0;No hubo expulsión;1;0
+11;2;Expulsión por segundo flagrante tipo 1;1;0
+11;11;Evento relacionado con posible expulsión;1;0
+11;15;Evento relacionado con posible expulsión;1;0
+12;0;Inicio del periodo (columna periodo);1;0
+13;0;Fin del periodo (columna periodo);1;0

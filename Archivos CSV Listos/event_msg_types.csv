@@ -1,0 +1,14 @@
+eventmsgtype,description
+1,Anotación de puntos
+2,Asistencias
+3,Rebote ofensivo
+4,Rebote defensivo
+5,Robo de balon
+6,Bloqueo de tiro
+7,Falla de tiro
+8,Faltas cometidas
+9,Cambio de jugador
+10,Tiempo fuera
+11,Tiro libre
+12,Rapido contraataque
+13,Otros eventos
